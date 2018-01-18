@@ -1,0 +1,17 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>Aborrar</servlet-name>
+  	<display-name>Aborrar</display-name>
+  	<description></description>
+  	<servlet-class>com.ejemplo.Aborrar</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Aborrar</servlet-name>
+  	<url-pattern>/Aborrar</url-pattern>
+  </servlet-mapping>
+</web-app>
